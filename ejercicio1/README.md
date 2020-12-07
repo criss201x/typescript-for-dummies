@@ -1,0 +1,3 @@
+# typescript for dummies
+
+## ejercicios 
