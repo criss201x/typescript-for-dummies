@@ -29,8 +29,8 @@ interface Guason{
 }
 
 let guason:Guason = {
-  reir: true,
-  comer:true,
+  reir: false,
+  comer:false, 
   llorar:false
 }
 
@@ -85,8 +85,6 @@ class PersonaClase implements Persona{
   imprimirBio() {
     console.log("descripcion");
   }
-
-
 
 }
 
